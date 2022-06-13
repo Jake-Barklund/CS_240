@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571773370 source:c:\users\jakeb\desktop\cs240\homework4\main.cpp
+	<iostream>
+	"Stack.h"
+
+1571314679 source:c:\users\jakeb\desktop\cs240\homework4\stack.cpp
+	<iostream>
+	<cstdlib>
+	"Stack.h"
+
+1571314723 c:\users\jakeb\desktop\cs240\homework4\stack.h
+	<iostream>
+

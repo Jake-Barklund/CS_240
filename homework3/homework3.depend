@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570477746 source:c:\users\jakeb\desktop\cs240\homework3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+

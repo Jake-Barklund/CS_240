@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575402544 source:c:\users\jakeb\desktop\cs240\prog6\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<numeric>
+
